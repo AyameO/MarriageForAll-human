@@ -1,4 +1,4 @@
-# MarriageForAll
+# MarriageForAll-human
 
 目的：同性婚が国内で実現していない現在において、問題(Issues)と関連する情報を整理する。
 
