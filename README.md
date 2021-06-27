@@ -7,6 +7,6 @@
 
 本レポジトリは以下のように情報をまとめている。
 追加の情報がある場合は、ぜひPull requests等で教えてください。
-1. 同性カップルが結婚できないことで生じる問題 → Issues
-2. 私たちが同性婚実現のためにできること → Projects
-3. 活動家や民間、地方自治体の取り組み情報 → Wiki
+1. 同性カップルが結婚できないことで生じる問題 → [Issues](https://github.com/AyameO/MarriageForAll/issues)
+2. 私たちが同性婚実現のためにできること → [Projects](https://github.com/AyameO/MarriageForAll/projects)
+3. 活動家や民間、地方自治体の取り組み情報 → [Wiki](https://github.com/AyameO/MarriageForAll/wiki)
